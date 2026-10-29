@@ -132,23 +132,21 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
   height: 72px;
 }
 .logo {
-  font-family: var(--font-heading);
-  font-weight: 700;
-  font-size: 1.2rem;
-  letter-spacing: -0.02em;
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
+  flex-shrink: 0;
 }
-.logo-mark {
-  width: 28px; height: 28px;
-  background: var(--accent);
+.logo img {
+  width: auto;
+  height: 60px;
+}
+.footer-brand .logo {
+  padding: 10px;
+  background: #fff;
   border-radius: var(--radius-sm);
-  display: grid;
-  place-items: center;
-  color: #fff;
-  font-size: 0.85rem;
-  font-weight: 700;
+}
+.footer-brand .logo img {
+  height: 88px;
 }
 .header-nav { display: flex; align-items: center; gap: var(--space-8); }
 .header-nav a {
@@ -704,8 +702,7 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
 <header class="site-header" id="siteHeader">
   <div class="container header-inner">
     <a href="#" class="logo" aria-label="Avermont home">
-      <span class="logo-mark">A</span>
-      Avermont
+      <img src="/assets/avermont-logo.png" alt="Avermont" width="488" height="374">
     </a>
     <nav class="header-nav" aria-label="Primary">
       <a href="#services">Services</a>
@@ -1086,9 +1083,8 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <a href="#" class="logo" style="color:#fff">
-          <span class="logo-mark">A</span>
-          Avermont
+        <a href="#" class="logo" aria-label="Avermont home">
+          <img src="/assets/avermont-logo.png" alt="Avermont" width="488" height="374" loading="lazy">
         </a>
         <p>Cold outreach that books calls. We build the system, you close the deals.</p>
       </div>
