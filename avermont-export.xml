@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Content export in WordPress WXR 1.2 format for import into Squarespace. Styles and scripts are not included. -->
+<rss version="2.0"
+ xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+<title>Avermont — Cold Outreach That Books Calls</title>
+<link>https://avermont.netlify.app</link>
+<description>We build and run cold email and LinkedIn outreach systems that fill your calendar with qualified sales calls. Book a free strategy call.</description>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<language>en-US</language>
+<wp:wxr_version>1.2</wp:wxr_version>
+<wp:base_site_url>https://avermont.netlify.app</wp:base_site_url>
+<wp:base_blog_url>https://avermont.netlify.app</wp:base_blog_url>
+<wp:author><wp:author_id>1</wp:author_id><wp:author_login>avermont</wp:author_login><wp:author_display_name>Avermont</wp:author_display_name><wp:author_first_name></wp:author_first_name><wp:author_last_name></wp:author_last_name></wp:author>
+<item>
+<title>Home</title>
+<link>https://avermont.netlify.app/</link>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator>avermont</dc:creator>
+<guid isPermaLink="false">https://avermont.netlify.app/?page_id=1</guid>
+<description></description>
+<content:encoded><![CDATA[<div>
+
+  
+  <div>
+    <div>
+      <div>
+        <span>Lead Generation Agency</span>
+        <h1>Cold outreach that fills your <span>calendar</span> with qualified calls.</h1>
+        <p>We build and run cold email and LinkedIn systems for B2B founders and agencies. You take the calls. We fill the pipeline.</p>
+        <div>
+          <a href="#book">Book a free strategy call <span>→</span></a>
+          <a href="#proof">See client results</a>
+        </div>
+        <p>
+          
+          20 minutes. No pitch deck. Just an honest look at your pipeline.
+        </p>
+        <div>
+          <div>
+            <div>2,400+</div>
+            <div>Calls booked for clients</div>
+          </div>
+          <div>
+            <div>38%</div>
+            <div>Average email reply rate</div>
+          </div>
+          <div>
+            <div>$12M+</div>
+            <div>Avermont generated</div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          <div>
+            <span>This week&#x27;s booked calls</span>
+            <span>Live</span>
+          </div>
+          <div>
+            <span>DK</span>
+            <div>
+              <div>Daniel K.</div>
+              <div>CEO, B2B SaaS · 25–100 employees</div>
+            </div>
+            <span>Thu 10:30</span>
+          </div>
+          <div>
+            <span>MR</span>
+            <div>
+              <div>Maria R.</div>
+              <div>Founder, Fintech · $2M ARR</div>
+            </div>
+            <span>Thu 14:00</span>
+          </div>
+          <div>
+            <span>JT</span>
+            <div>
+              <div>James T.</div>
+              <div>VP Sales, Logistics · 200 employees</div>
+            </div>
+            <span>Fri 09:15</span>
+          </div>
+          <div>
+            <span>AL</span>
+            <div>
+              <div>Aisha L.</div>
+              <div>Director, HR Tech · Series A</div>
+            </div>
+            <span>Fri 11:45</span>
+          </div>
+        </div>
+        <div>
+          <div>+63%</div>
+          <div>Meetings booked, 90 days</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div>
+    <div>
+      <div>
+        <div>The problem</div>
+        <h2>Great offer. Empty calendar.</h2>
+        <p>Most businesses don&#x27;t have a lead problem. They have a <em>consistent pipeline</em> problem. If any of these sound familiar, we can help.</p>
+      </div>
+      <div>
+        <div>
+          <h3>Ads are expensive and unpredictable</h3>
+          <p>Cost per lead keeps climbing, and the moment you pause spend, the pipeline disappears.</p>
+        </div>
+        <div>
+          <h3>Cold emails land in spam or silence</h3>
+          <p>You&#x27;ve tried sending yourself. Poor domains, bad data, and no follow-up system means near-zero replies.</p>
+        </div>
+        <div>
+          <h3>Your team sells — they don&#x27;t prospect</h3>
+          <p>Every hour your best people spend hunting for leads is an hour they&#x27;re not closing.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div id="services">
+    <div>
+      <div>
+        <div>What we do</div>
+        <h2>A complete outbound system, run for you.</h2>
+        <p>One agency, four tightly integrated services. Everything is built around one metric: qualified calls on your calendar.</p>
+      </div>
+      <div>
+        <div>
+          <div>
+            
+          </div>
+          <h3>Cold Email Systems</h3>
+          <p>End-to-end email outreach engineered for the inbox, not the spam folder.</p>
+          <ul>
+            <li>Domain setup, warming &amp; deliverability management</li>
+            <li>Copywriting that sounds human, not salesy</li>
+            <li>Multi-touch sequences with smart follow-ups</li>
+          </ul>
+        </div>
+        <div>
+          <div>
+            
+          </div>
+          <h3>LinkedIn Outreach</h3>
+          <p>Personalized connection campaigns that turn your profile into a booking channel.</p>
+          <ul>
+            <li>Profile optimization for your ICP</li>
+            <li>Connection requests &amp; follow-up messaging</li>
+            <li>Coordinated with email for multi-channel touch</li>
+          </ul>
+        </div>
+        <div>
+          <div>
+            
+          </div>
+          <h3>Lead Research &amp; Lists</h3>
+          <p>We find the exact companies and decision-makers worth talking to.</p>
+          <ul>
+            <li>ICP definition and segmentation</li>
+            <li>Verified contacts with direct dials and emails</li>
+            <li>Technographic and intent-based targeting</li>
+          </ul>
+        </div>
+        <div>
+          <div>
+            
+          </div>
+          <h3>Appointment Setting</h3>
+          <p>We don&#x27;t just hand you leads — we put meetings on your calendar.</p>
+          <ul>
+            <li>Direct booking into your calendar</li>
+            <li>Pre-call qualification so every meeting counts</li>
+            <li>No-shows rebooked automatically</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div id="proof">
+    <div>
+      <div>
+        <div>Client results</div>
+        <blockquote>We went from scrambling for demos to turning meetings away. Avermont rebuilt our outbound from scratch in six weeks.</blockquote>
+        <div>
+          <span>RC</span>
+          <div>
+            <div>Rachel Chen</div>
+            <div>CEO, Northgate Software (B2B SaaS)</div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          <div>96</div>
+          <div>Qualified calls booked in 90 days</div>
+        </div>
+        <div>
+          <div>41%</div>
+          <div>Positive reply rate on cold email</div>
+        </div>
+        <div>
+          <div>$310K</div>
+          <div>Closed-won revenue from outbound</div>
+        </div>
+        <div>
+          <div>6 wks</div>
+          <div>From kickoff to first booked calls</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div>
+    <div>
+      <div>
+        <div>Testimonials</div>
+        <h2>Owners who stopped chasing leads.</h2>
+      </div>
+      <div>
+        <div>
+          <p>I&#x27;d burned through two agencies before this. The difference was simple: they booked calls on my calendar instead of sending me a list of &quot;leads&quot; I had to chase myself.</p>
+          <span>34 calls booked in Q1</span>
+          <div>
+            <span>MB</span>
+            <div>
+              <div>Marcus Bell</div>
+              <div>Founder, Bell &amp; Co. Consulting</div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>The reporting is the part nobody talks about. Every week I know exactly how many emails went out, who replied, and what&#x27;s on my calendar. It just runs.</p>
+          <span>3.2x pipeline in 4 months</span>
+          <div>
+            <span>SP</span>
+            <div>
+              <div>Sofia Petrov</div>
+              <div>COO, Freightline Logistics</div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <p>As someone who hates selling, this was the unlock. My calendar is full of people who actually need what we sell. I just show up and have a conversation.</p>
+          <span>18 calls / month, consistently</span>
+          <div>
+            <span>DN</span>
+            <div>
+              <div>David Nguyen</div>
+              <div>CEO, Layerbase (HR Tech)</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div>
+    <div>
+      <div>
+        <div>Who you&#x27;ll work with</div>
+        <h2>No account managers. No hand-offs.</h2>
+        <p>You deal directly with the people who run your campaigns.</p>
+      </div>
+      <div>
+        <div>
+          <span>TJ</span>
+          <h3>T.J. Truong</h3>
+          <p>Co-Owner — Operations</p>
+          <p>Runs infrastructure, deliverability, and the systems that keep campaigns sending and reply rates high.</p>
+          <a href="tel:+14086230963">408-623-0963</a>
+        </div>
+        <div>
+          <span>V</span>
+          <h3>Vince Pham</h3>
+          <p>Co-Owner — Strategy</p>
+          <p>Leads positioning, offer design, and campaign strategy. The person you&#x27;ll talk to on your strategy call.</p>
+          <a href="tel:+16267103906">626-710-3906</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div id="process">
+    <div>
+      <div>
+        <div>How it works</div>
+        <h2>Live in six weeks. Not six months.</h2>
+      </div>
+      <div>
+        <div>
+          <span>1</span>
+          <h3>Audit &amp; Strategy</h3>
+          <p>We dig into your offer, your ICP, and your past outreach. You get a positioning doc and a target list — not a generic pitch.</p>
+        </div>
+        <div>
+          <span>2</span>
+          <h3>Build &amp; Launch</h3>
+          <p>Domains warmed, sequences written, lists verified, campaigns live. First emails go out within three weeks of kickoff.</p>
+        </div>
+        <div>
+          <span>3</span>
+          <h3>Optimize &amp; Scale</h3>
+          <p>Weekly reporting on replies and booked calls. We test subject lines, angles, and offers — then double down on what converts.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div id="faq">
+    <div>
+      <div>
+        <div>Questions</div>
+        <h2>What owners usually ask.</h2>
+      </div>
+      <div>
+        <div>
+          <h3>
+            How fast will I see results?
+            <span></span>
+          </h3>
+          <div>
+            <p>First replies typically arrive in the first 7–10 days of sending. Qualified calls on your calendar usually start in weeks 3–4, with volume ramping through week 6 as we optimize. We set expectations together at kickoff based on your market.</p>
+          </div>
+        </div>
+        <div>
+          <h3>
+            Do you work with my industry?
+            <span></span>
+          </h3>
+          <div>
+            <p>We focus on B2B companies with a clear buyer and a sales process worth filling — typically SaaS, agencies, professional services, and B2B product companies doing $500K–50M in revenue. If your customer is another business and your deal size justifies outbound, we should talk.</p>
+          </div>
+        </div>
+        <div>
+          <h3>
+            Do you guarantee results?
+            <span></span>
+          </h3>
+          <div>
+            <p>We guarantee activity, transparency, and rigor — every email sent, every reply, every booked call, reported weekly. Revenue depends on your offer, pricing, and sales process, which is why we audit those first. If the math doesn&#x27;t work, we&#x27;ll tell you on the call.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <div id="book">
+    <div>
+      <div>Ready when you are</div>
+      <h2>See if we can fill your calendar.</h2>
+      <p>Book a 20-minute strategy call. We&#x27;ll review your market, your offer, and your current pipeline — and give you a straight answer on whether outbound makes sense for you.</p>
+      <div>
+        <a href="https://calendly.com/tj888truong/scheduled-meeting">Book your free strategy call <span>→</span></a>
+        <a href="https://calendly.com/tj888truong/scheduled-meeting">Book a meeting</a>
+      </div>
+      <div>
+        
+        
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div>
+  <div>
+    <div>
+      <div>
+        <a href="#">
+          <span>A</span>
+          Avermont
+        </a>
+        <p>Cold outreach that books calls. We build the system, you close the deals.</p>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#proof">Results</a></li>
+          <li><a href="#process">Process</a></li>
+          <li><a href="#book">Book a call</a></li>
+        </ul>
+      </div>
+      <div>
+      <h4>Contact</h4>
+      <ul>
+        <li><a href="tel:+14086230963">408-623-0963</a></li>
+        <li><a href="tel:+16267103906">626-710-3906</a></li>
+        <li>Mon–Fri, 9am–6pm PT</li>
+      </ul>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms of Service</a></li>
+        </ul>
+      </div>
+    </div>
+    <div>
+      <span>© 2026 Avermont. All rights reserved.</span>
+      <span>Built for founders who&#x27;d rather close than chase.</span>
+    </div>
+  </div>
+</div>]]></content:encoded>
+<excerpt:encoded></excerpt:encoded>
+<wp:post_id>1</wp:post_id>
+<wp:post_date>2026-10-29 00:00:00</wp:post_date>
+<wp:post_date_gmt>2026-10-29 00:00:00</wp:post_date_gmt>
+<wp:comment_status>closed</wp:comment_status>
+<wp:ping_status>closed</wp:ping_status>
+<wp:post_name>home</wp:post_name>
+<wp:status>publish</wp:status>
+<wp:post_parent>0</wp:post_parent>
+<wp:menu_order>0</wp:menu_order>
+<wp:post_type>page</wp:post_type>
+<wp:post_password></wp:post_password>
+<wp:is_sticky>0</wp:is_sticky>
+</item>
+</channel>
+</rss>
